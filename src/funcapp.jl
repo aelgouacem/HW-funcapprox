@@ -188,11 +188,12 @@ module funcapp
 		
 		# bs = BSpline(13,3,-5,5)
 		# B = full(getBasis(collect(linspace(-5,5.0,500)),bs))
-
+		println("q4 not completed")
 		
 	end
 
 	function q5()
+		println("q5 not completed")
 
 		
 	end
